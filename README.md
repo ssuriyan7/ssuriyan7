@@ -1,6 +1,6 @@
 ### Hi there 👋 Thanks for showing interest to get to know me.
 
-- 📚 I'm doing my Master's in Computer Scicene at the University of Florida. Go Gators 😎
+- 📚 I'm doing my Master's in Computer Science at the University of Florida. Go Gators! 😎
 - 🔭 I’m currently working on a concurrent workflow engine project, primarily to get a hang of Golang's concurrency and distributed computing model.
 - 🌱 I’m currently learning Designs of Distributed systems.
 - 👯 I’m looking to collaborate on open source projects in distributed systems.
@@ -9,3 +9,5 @@
 - 📫 How to reach me: suriyansub710@gmail.com or https://www.linkedin.com/in/ssuriyan7/
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I'm a southpaw but I write with my right hand and can do a lot of other things with it just fine.
+
+Check out some of personal projects in the pinned section below.
